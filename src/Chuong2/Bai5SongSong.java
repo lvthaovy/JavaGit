@@ -22,7 +22,7 @@ public class Bai5SongSong {
         x4 = scanner.nextDouble();
         y4 = scanner.nextDouble();
         if ((Math.abs(x2 - x1) / Math.abs(y2 - y1) ) == (Math.abs(x4 - x3) / Math.abs(y4 - y3)))
-            System.out.print("TRUE");
+            System.out.print("TRUE QUA TRUE");
         else
             System.out.print("FALSE");
     }
