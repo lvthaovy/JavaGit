@@ -23,8 +23,8 @@ public class Bai1MaxMin {
         if (max < b)   max = b;
         if (max < c)   max = c;
         if (max < d)   max = d;
-        System.out.printf("So nho nhat la %d   ",min);
-        System.out.printf("So lon nhat la %d   ",max);
+        System.out.println("So nho nhat la: "+min);
+        System.out.println("So lon nhat la: "+max);
 
         Double sum= cong(a,b);
         System.out.println(sum);
